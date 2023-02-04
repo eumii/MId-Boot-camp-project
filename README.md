@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to <%= Covid 19 vaccinal coverage of regions of France in 2022 %> 👋</h1>
+<h1 align="center">Welcome to Covid 19 vaccinal coverage of regions in France in 2022  👋</h1>
 <p>
 <% if (isProjectOnNpm) { -%>
   <a href="https://www.npmjs.com/package/<%= projectName %>" target="_blank">
